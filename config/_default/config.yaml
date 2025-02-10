@@ -1,5 +1,5 @@
 baseURL: 'https://timemachineforpeace.wilder.wp.computer/'
-title: ^O-O^ WILDER, TMFP
+title: ^O-O^ WILDER-× A! [ TMFP ]
 
 # Uncomment when not installing with Hugo Modules
 # theme: eureka
@@ -9,7 +9,7 @@ theme: wangchucheng.com/hugo-eureka
 
 paginate: 20
 copyright: >
-  &copy; 2025 Wilder WPC & World Peacebrain Mindeye V1 ~ <a href="https://www.patreon.com/c/wilderwpc">Content Portal, Patreon</a> ~ <a href="https://drive.google.com/file/d/13of5dva-mwCZr3u4rC9mIvp87TjA7qLz/view?usp=sharing" class="hover:text-eureka">ORIGIN STORY: A Study In Peace (Operator's Manual for the Timespace Matter Mindmachine)</a>
+  &copy; 2025 The Wilder-ness Adventures & Wilder WPC & World Peacebrain Mindeye V1 ~ <a href="https://www.patreon.com/c/wilderwpc">Content Portal, Patreon (click)</a> ~ <a href="https://drive.google.com/file/d/13of5dva-mwCZr3u4rC9mIvp87TjA7qLz/view?usp=sharing"> ORIGIN STORY: A Study In Peace (Operator's Manual for the Timespace Matter Mindmachine)</a>
 enableGitInfo: false
 summaryLength: 75
 
