@@ -1,6 +1,6 @@
 mainSections:
   - posts
-description: World pieces are what make up an individual world.
+description: The Wilder-ness Adventures
 
 repoEditURL:
 
@@ -16,7 +16,7 @@ style:
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 siteType: Person
-icon: images/peacebangicon.png
+icon: images/wpblack.png
 publisherName: Blair Munro (Wilder)
 publisherLogo:
 
