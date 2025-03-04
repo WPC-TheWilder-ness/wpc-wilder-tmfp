@@ -2,7 +2,7 @@
 title: Time Machine For Peace
 draft: false
 avatar: images/TMFP.png
-bio: ...social invention program.
+bio: ...Social Invention Program.
 
 weight: 1
 widget:
