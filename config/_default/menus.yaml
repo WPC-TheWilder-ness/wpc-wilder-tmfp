@@ -14,10 +14,10 @@ main:
   - name: 'CONVERSATION SENSE'
     url: 'https://convo.wilder.wp.computer'
     weight: 5
-  - name: 'GO!'
-    url: 'https://go.wilder.wp.computer'
+  - name: 'GO BUILD A PIECE COMPUTER'
+    url: 'https://peacebang.wilder.wp.computer'
     weight: 6
-  - name: 'WILDER X AURORA'
+  - name: 'WILDER AND AURORA'
     url: 'https://wxa.wilder.wp.computer'
     weight: 7
   - name: 'LUWXAA DIRECTORY'
