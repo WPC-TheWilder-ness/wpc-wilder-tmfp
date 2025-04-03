@@ -1,7 +1,7 @@
 ---
 title: Time Machine For Peace
 draft: false
-avatar: images/TMFP.png
+avatar: images/boothright.jpg
 bio: ...Social Invention Program.
 
 weight: 1
